@@ -1,0 +1,6 @@
+C:\Users\lesnovaa\source\repos\FunctionCalc\FunctionCalc\bin\Debug\FunctionCalc.dll
+C:\Users\lesnovaa\source\repos\FunctionCalc\FunctionCalc\bin\Debug\FunctionCalc.pdb
+C:\Users\lesnovaa\source\repos\FunctionCalc\FunctionCalc\obj\Debug\FunctionCalc.csproj.AssemblyReference.cache
+C:\Users\lesnovaa\source\repos\FunctionCalc\FunctionCalc\obj\Debug\FunctionCalc.csproj.CoreCompileInputs.cache
+C:\Users\lesnovaa\source\repos\FunctionCalc\FunctionCalc\obj\Debug\FunctionCalc.dll
+C:\Users\lesnovaa\source\repos\FunctionCalc\FunctionCalc\obj\Debug\FunctionCalc.pdb
