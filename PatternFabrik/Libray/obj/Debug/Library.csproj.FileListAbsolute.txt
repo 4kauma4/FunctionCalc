@@ -1,0 +1,6 @@
+C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\bin\Debug\Libray.dll
+C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\bin\Debug\Libray.pdb
+C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Libray.dll
+C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Libray.pdb
