@@ -1,0 +1,6 @@
+C:\Users\lesnovaa\source\repos\LibraryRobots\LibraryRobots\obj\Debug\LibraryRobots.csproj.AssemblyReference.cache
+C:\Users\lesnovaa\source\repos\LibraryRobots\LibraryRobots\obj\Debug\LibraryRobots.csproj.CoreCompileInputs.cache
+C:\Users\lesnovaa\source\repos\LibraryRobots\LibraryRobots\bin\Debug\LibraryRobots.dll
+C:\Users\lesnovaa\source\repos\LibraryRobots\LibraryRobots\bin\Debug\LibraryRobots.pdb
+C:\Users\lesnovaa\source\repos\LibraryRobots\LibraryRobots\obj\Debug\LibraryRobots.dll
+C:\Users\lesnovaa\source\repos\LibraryRobots\LibraryRobots\obj\Debug\LibraryRobots.pdb
