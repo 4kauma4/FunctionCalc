@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\TestCar\\TestCar.csproj": {}
+    "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\TestCar\\TestCar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\Libray\\Library.csproj": {
+    "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\Libray\\Library.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\Libray\\Library.csproj",
+        "projectUniqueName": "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\Libray\\Library.csproj",
         "projectName": "Library",
-        "projectPath": "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\Libray\\Library.csproj",
+        "projectPath": "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\Libray\\Library.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\TestCar\\TestCar.csproj": {
+    "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\TestCar\\TestCar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\TestCar\\TestCar.csproj",
+        "projectUniqueName": "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\TestCar\\TestCar.csproj",
         "projectName": "TestCar",
-        "projectPath": "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\TestCar\\TestCar.csproj",
+        "projectPath": "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\TestCar\\TestCar.csproj",
         "packagesPath": "C:\\Users\\lesnovaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\TestCar\\obj\\",
+        "outputPath": "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\TestCar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,8 +48,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\Libray\\Library.csproj": {
-                "projectPath": "C:\\Users\\lesnovaa\\source\\repos\\PatternFabrik\\Libray\\Library.csproj"
+              "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\Libray\\Library.csproj": {
+                "projectPath": "\\\\iscsi\\profstud\\lesnovaa\\Downloads\\Volan-de-Mort-main\\Volan-de-Mort-main\\PatternFabrik\\Libray\\Library.csproj"
               }
             }
           }

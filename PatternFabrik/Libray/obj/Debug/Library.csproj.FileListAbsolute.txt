@@ -4,3 +4,9 @@ C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Library.csproj.Ass
 C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Library.csproj.CoreCompileInputs.cache
 C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Libray.dll
 C:\Users\lesnovaa\source\repos\PatternFabrik\Libray\obj\Debug\Libray.pdb
+\\iscsi\profstud\lesnovaa\Downloads\Volan-de-Mort-main\Volan-de-Mort-main\PatternFabrik\Libray\bin\Debug\Libray.dll
+\\iscsi\profstud\lesnovaa\Downloads\Volan-de-Mort-main\Volan-de-Mort-main\PatternFabrik\Libray\bin\Debug\Libray.pdb
+\\iscsi\profstud\lesnovaa\Downloads\Volan-de-Mort-main\Volan-de-Mort-main\PatternFabrik\Libray\obj\Debug\Library.csproj.AssemblyReference.cache
+\\iscsi\profstud\lesnovaa\Downloads\Volan-de-Mort-main\Volan-de-Mort-main\PatternFabrik\Libray\obj\Debug\Library.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\lesnovaa\Downloads\Volan-de-Mort-main\Volan-de-Mort-main\PatternFabrik\Libray\obj\Debug\Libray.dll
+\\iscsi\profstud\lesnovaa\Downloads\Volan-de-Mort-main\Volan-de-Mort-main\PatternFabrik\Libray\obj\Debug\Libray.pdb

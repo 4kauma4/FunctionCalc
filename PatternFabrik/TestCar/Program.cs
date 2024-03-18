@@ -9,7 +9,7 @@ namespace CarRace
         {
             new Car("МашинаКрасная", 150, 0),
             new Car("МашинаСиняя", 140, 0),
-            new Car("МашинаЧерная", 160, 0)
+            new Car("МашинаЗеленая", 160, 0)
         };
 
             while (true)
